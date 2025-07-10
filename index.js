@@ -33,4 +33,4 @@ app.get("/habitos", (req, res) => {
   app.delete("/habitos", (req, res) => {
     res.json({ mensaje: "Esta es la ruta DELETE de mi entidad habitos" });
   });
-  
+  export default router;
