@@ -1,0 +1,19 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Coverage
+coverage/
+
+# Build
+dist/
+build/
