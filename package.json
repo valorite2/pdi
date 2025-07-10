@@ -1,6 +1,7 @@
 {
   "name": "dylan",
   "version": "1.0.0",
+  "type": "module",
   "description": "hola",
   "main": "index.js",
   "scripts": {
@@ -19,6 +20,7 @@
   "homepage": "https://github.com/valorite2/pdi#readme",
   "dependencies": {
     "chalk": "^5.4.1",
-    "date-fns": "^4.1.0"
+    "date-fns": "^4.1.0",
+    "express": "^5.1.0"
   }
 }
